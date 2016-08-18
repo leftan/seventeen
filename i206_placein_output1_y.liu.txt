@@ -1,0 +1,43 @@
+Let's play the game of Seventeen!
+Number of marbles left in jar: 17 
+
+Your turn: How many marbles will you remove (1-3)? a
+Sorry, that is not a valid option. Try again!
+Number of marbles left in jar: 17 
+
+Your turn: How many marbles will you remove (1-3)? 9
+Sorry, that is not a valid option. Try again!
+Number of marbles left in jar: 17 
+
+Your turn: How many marbles will you remove (1-3)? 3
+You removed 3 marbles.
+Number of marbles left in jar: 14 
+
+Computer's turn...
+Computer removed 1 marbles.
+Number of marbles left in jar: 13 
+
+Your turn: How many marbles will you remove (1-3)? 2
+You removed 2 marbles.
+Number of marbles left in jar: 11 
+
+Computer's turn...
+Computer removed 3 marbles.
+Number of marbles left in jar: 8 
+
+Your turn: How many marbles will you remove (1-3)? 3
+You removed 3 marbles.
+Number of marbles left in jar: 5 
+
+Computer's turn...
+Computer removed 2 marbles.
+Number of marbles left in jar: 3 
+
+Your turn: How many marbles will you remove (1-3)? 2
+You removed 2 marbles.
+Number of marbles left in jar: 1 
+
+Computer's turn...
+Computer removed 1 marbles.
+
+There are no marbles left. You win!
